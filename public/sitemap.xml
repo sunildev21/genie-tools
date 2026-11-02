@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://genietools.vercel.app/</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Testers -->
+    <url>
+        <loc>https://genietools.vercel.app/tester/mouse-tester</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/tester/keyboard-tester</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Generators -->
+    <url>
+        <loc>https://genietools.vercel.app/generator/qr-code-generator</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/generator/password-generator</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Convertors -->
+    <url>
+        <loc>https://genietools.vercel.app/converter/pdf-converter</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/converter/image-converter</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/converter/file-resizer</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/converter/currency-converter</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/converter/color-converter</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <!-- Calculator -->
+    <url>
+        <loc>http://localhost:3000/calculator/word-counter</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <!-- Compilers -->
+    <url>
+        <loc>https://genietools.vercel.app/compiler/javascript-compiler</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/compiler/python-compiler</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Diagram Generator -->
+    <!-- <url>
+        <loc>https://genietools.vercel.app/generator/diagram-generator</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url> -->
+
+    <!-- Contact and About Pages -->
+    <!-- <url>
+        <loc>https://genietools.vercel.app/contact</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://genietools.vercel.app/about</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url> -->
+
+</urlset>
